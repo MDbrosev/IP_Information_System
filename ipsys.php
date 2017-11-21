@@ -209,7 +209,7 @@ $browser = get_browser(null, true);
       function doNothing() {}
     </script>
     <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB3x7mRn3mq9NlzHvZetHhgvYWfwIbO9YM&callback=initMap">
+    src="https://maps.googleapis.com/maps/api/js?key=API_KEY_HERE&callback=initMap">
     </script>
   </body>
 </html>
