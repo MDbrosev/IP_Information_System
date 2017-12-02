@@ -3,6 +3,11 @@
 </html>
 
 <?php
+
+/////////////////////////////////////////////
+///Author: Yoseph Hasson; GitHub: MDbrosev///
+/////////////////////////////////////////////
+
 //IP-API.com
 class myProject {
     static $fields = 65535;     // refer to http://ip-api.com/docs/api:returned_values#field_generator
